@@ -1,0 +1,11 @@
+git clone
+
+git and github
+
+alternatives : AWS,bitbucket,gitlab
+
+git add. >>> add the file to stging alternetives (file is being tracked bt git)
+
+git commit -m "message" >>>> to commit the change in the track file
+
+git puch orgin main >>>> pushing the file to the main branch in githb respository 
